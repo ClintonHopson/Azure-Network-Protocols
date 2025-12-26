@@ -1,34 +1,53 @@
-# Azure-Network-Protocols
+# Network Security Groups (NSGs) and Traffic Inspection in Azure
 
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+  <img src="https://i.imgur.com/Ua7udoS.png" alt="Azure network traffic inspection"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+## Overview
 
+Inspected and analyzed network traffic between Azure Virtual Machines while experimenting with **Network Security Groups (NSGs)** and **DNS behavior**.  
+This project demonstrates foundational networking and troubleshooting skills, including ICMP traffic analysis, DNS resolution, caching behavior, and protocol inspection using Wireshark.
 
-<h2>Environments and Technologies Used</h2>
+---
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+## Project Highlights
 
-<h2>Operating Systems Used </h2>
+- Analyzed network traffic between Azure virtual machines
+- Observed DNS resolution failures and corrections
+- Created and modified DNS records (A and CNAME)
+- Demonstrated DNS caching and cache flushing behavior
+- Inspected traffic using command-line tools and Wireshark
+- Reinforced understanding of how NSGs and DNS affect connectivity
 
+---
+
+## Technologies & Tools Used
+
+- Microsoft Azure (Virtual Machines)
+- Network Security Groups (NSGs)
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Remote Desktop Protocol (RDP)
+- PowerShell
+- DNS Manager
+- Network Protocols: ICMP, DNS, HTTP/S, SSH, RDP
 
-<h2>High-Level Steps</h2>
+---
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+## Skills Demonstrated
 
-<h2>Actions and Observations</h2>
+- Network troubleshooting and traffic analysis
+- DNS resolution and name-to-IP mapping
+- DNS cache behavior and cache flushing
+- Understanding of A and CNAME DNS records
+- ICMP traffic testing (ping)
+- Azure virtual networking fundamentals
+- Practical use of command-line networking tools
+
+---
+
+## Actions and Observations
+
 
 ------------------------------------------------------------------------------------------------
 
