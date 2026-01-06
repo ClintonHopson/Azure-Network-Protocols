@@ -11,38 +11,6 @@ This project demonstrates foundational networking and troubleshooting skills, in
 
 ---
 
-## Project Highlights
-
-- Analyzed network traffic between Azure virtual machines
-- Observed DNS resolution failures and corrections
-- Created and modified DNS records (A and CNAME)
-- Demonstrated DNS caching and cache flushing behavior
-- Inspected traffic using command-line tools and Wireshark
-- Reinforced understanding of how NSGs and DNS affect connectivity
-
----
-
-## Technologies & Tools Used
-
-- Microsoft Azure (Virtual Machines)
-- Network Security Groups (NSGs)
-- Windows 10 (21H2)
-- Remote Desktop Protocol (RDP)
-- PowerShell
-- DNS Manager
-- Network Protocols: ICMP, DNS, HTTP/S, SSH, RDP
-
----
-
-## Skills Demonstrated
-
-- Network troubleshooting and traffic analysis
-- DNS resolution and name-to-IP mapping
-- DNS cache behavior and cache flushing
-- Understanding of A and CNAME DNS records
-- ICMP traffic testing (ping)
-- Azure virtual networking fundamentals
-- Practical use of command-line networking tools
 
 ---
 
